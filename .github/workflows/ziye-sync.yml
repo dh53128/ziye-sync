@@ -1,8 +1,8 @@
 # This is a basic workflow to help you get started with Actions
- 作者名       6Svip120apk69  
- 作者库名   gitee_q8qsTAUA_cThxc1RBVUE     
- 作者分支名    main     
- 同步分支名    ZIYE
+# 作者名       6Svip120apk69  
+# 作者库名   gitee_q8qsTAUA_cThxc1RBVUE     
+# 作者分支名    main     
+# 同步分支名    ZIYE
 nname: ziye-sync
 on:
   schedule:
